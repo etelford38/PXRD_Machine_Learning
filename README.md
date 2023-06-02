@@ -29,12 +29,12 @@ Python codes to download the Materials Project database, generate training data,
 * Loads PXRD data and plots it with the option of subtracting a background file.
 * Extracts the peak positions from the analyzed PXRD data.
 6) [Load_PXRD_data_GUI_v3.py](https://github.com/etelford38/PXRD_Machine_Learning/blob/main/Load_PXRD_data_GUI_v3.py)
-* Second iteration of the GUI for loading and analyzing user input PXRD data.
+* Third iteration of the GUI for loading and analyzing user input PXRD data.
 * Loads PXRD data and plots it with the option of subtracting a background file.
 * Extracts the peak positions from the analyzed PXRD data.
 * Calculates d spacings from the extracted peaks position.
 7) [Load_PXRD_data_GUI_v4.py](https://github.com/etelford38/PXRD_Machine_Learning/blob/main/Load_PXRD_data_GUI_v4.py)
-* Second iteration of the GUI for loading and analyzing user input PXRD data.
+* Fourth iteration of the GUI for loading and analyzing user input PXRD data.
 * Loads PXRD data and plots it with the option of subtracting a background file.
 * Extracts the peak positions from the analyzed PXRD data.
 * Calculates d spacings from the extracted peaks position.
