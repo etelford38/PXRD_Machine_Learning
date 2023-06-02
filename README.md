@@ -1,8 +1,19 @@
 # PXRD_Machine_Learning
 Python codes to download the Materials Project database, generate training data, train a machine learning algorithm, importing user PXRD data, and then predicting materials properties based on the input PXRD data. Writen by Evan Telford (ejt2133@columbia.edu).
-
-There are a number of Python files design to generate training data, train a machine-learning algorithm, and predict the crystal symmetry based on input PXRD data:
-
+#The following packages are required to run all Python files:
+* matplotlib
+* sys
+* PyQt5
+* pymatgen
+* numpy
+* pickle
+* sklearn
+* tqdm
+* mp_api
+* scipy
+* pandas
+* string
+#There are a number of Python files design to generate training data, train a machine-learning algorithm, and predict the crystal symmetry based on input PXRD data:
 1) [Figure_making_function.py](https://github.com/etelford38/PXRD_Machine_Learning/blob/main/Figure_making_functions.py)
 * Contains functions for streamlining the creation of publication-quality plots in Python.
 * Used for plotting the PXRD data.
