@@ -11,7 +11,7 @@ Python codes to download the Materials Project database, generate training data,
 * scipy (https://anaconda.org/anaconda/scipy)
 * pandas (https://anaconda.org/anaconda/pandas)
 ## There are a number of Python files designed to generate training data, train a machine-learning algorithm, and predict the crystal symmetry based on input PXRD data:
-1) [Figure_making_function.py](https://github.com/etelford38/PXRD_Machine_Learning/blob/main/Figure_making_functions.py)
+1) [Figure_making_functions.py](https://github.com/etelford38/PXRD_Machine_Learning/blob/main/Figure_making_functions.py)
 * Contains functions for streamlining the creation of publication-quality plots in Python.
 * Used for plotting the PXRD data.
 2) [MP_download_database_GUI](https://github.com/etelford38/PXRD_Machine_Learning/blob/main/MP_download_database_GUI.py)
