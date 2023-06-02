@@ -20,7 +20,7 @@ Python codes to download the Materials Project database, generate training data,
 * The GUI will then query the Materials Project database and download information for all materials containing the entered elements.
 * There is a loading bar that should show the progress of the download, but it currently doesn't work.
 3) [MP_important_functions.py](https://github.com/etelford38/PXRD_Machine_Learning/blob/main/MP_important_functions.py)
-* Contains functions for accesing the Materials Project database, generated PXRD spectra, and saving/loading training data.
+* Contains functions for accesing the Materials Project database, generating PXRD spectra, and saving/loading training data.
 4) [Load_PXRD_data_GUI_v1.py](https://github.com/etelford38/PXRD_Machine_Learning/blob/main/Load_PXRD_data_GUI_v1.py)
 * First iteration of the GUI for loading and analyzing user input PXRD data.
 * Loads PXRD data and plots it with the option of subtracting a background file.
