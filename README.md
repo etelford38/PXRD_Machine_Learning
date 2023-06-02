@@ -14,7 +14,7 @@ Python codes to download the Materials Project database, generate training data,
 1) [Figure_making_functions.py](https://github.com/etelford38/PXRD_Machine_Learning/blob/main/Figure_making_functions.py)
 * Contains functions for streamlining the creation of publication-quality plots in Python.
 * Used for plotting the PXRD data.
-2) [MP_download_database_GUI](https://github.com/etelford38/PXRD_Machine_Learning/blob/main/MP_download_database_GUI.py)
+2) [MP_download_database_GUI.py](https://github.com/etelford38/PXRD_Machine_Learning/blob/main/MP_download_database_GUI.py)
 * GUI for downloading information from the Materials Project database. Uses a custom API key.
 * Need to enter the desired element selection in form X,Y,Z,... (e.g. Cr,S,Br).
 * The GUI will then query the Materials Project database and download information for all materials containing the entered elements.
