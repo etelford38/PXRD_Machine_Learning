@@ -1,5 +1,5 @@
 # PXRD_Machine_Learning
-Python codes to download the Materials Project database, generate training data, train a machine learning algorithm, importing user PXRD data, and then predict materials properties based on the input PXRD data. Writen by Evan Telford (ejt2133@columbia.edu).
+Python codes to download the Materials Project database, generate training data, train a machine learning algorithm, import user PXRD data, and then predict materials properties based on the input PXRD data. Writen by Evan Telford (ejt2133@columbia.edu).
 # The following packages are required to run all Python files:
 * matplotlib (https://anaconda.org/conda-forge/matplotlib)
 * PyQt5 (https://anaconda.org/anaconda/pyqt)
